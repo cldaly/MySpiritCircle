@@ -1,4 +1,4 @@
-#My Spirit Circle Application
+# MySpiritCircleApplication
 
 Frontend UI: my-spirit-circle-ui
 - Angular10
